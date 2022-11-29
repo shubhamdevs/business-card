@@ -3,6 +3,6 @@
 
  Here is a screenshot of the business card website.<br>
 
-![Image of Shubham's Business Card]("Screenshot of Business Card Website, ")
+![Image of Shubham's Business Card](Screenshot.png "Screenshot of Business Card Website, ")
 
  you can find more about the course by clicking the link:
