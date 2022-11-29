@@ -14,8 +14,7 @@ body {
     padding: 20px;
     display: flex;
     text-align: center;
-}
-
-.border {
-    border: 1px dotted blue;
+    color: black ;
+    background-color: #F1DED0;
+    border-bottom: 5px solid red;
 }
