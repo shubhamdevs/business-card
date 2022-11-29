@@ -6,3 +6,5 @@
 ![Image of Shubham's Business Card](Screenshot.png "Screenshot of Business Card Website, ")
 
  you can find more about the course by clicking the link:
+
+<https://scrimba.com/learn/frontend>
